@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Fri Oct 02 01:09:54 BRT 2015:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instância a816c00e-0150-26bd-f314-000000ad4f48
+no diretório de banco de dados C:\workspace\JavaDerby\BD_Teste 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_51-b16
+user.dir=C:\workspace\JavaDerby
+os.name=Windows 8.1
+os.arch=x86
+os.version=6.3
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Oct 02 01:09:54 BRT 2015: Shutting down Derby engine
+----------------------------------------------------------------
+Fri Oct 02 01:09:54 BRT 2015:
+Encerrando a instância a816c00e-0150-26bd-f314-000000ad4f48
+----------------------------------------------------------------
