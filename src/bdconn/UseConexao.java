@@ -41,7 +41,7 @@ public class UseConexao {
 		Banco.buscaPressaoRetaguarda("Table_Teste");
 		
 		//Mostra somente a Frequencia
-		Banco.buscaFrequencia("Table_Teste");
+		//Banco.buscaFrequencia("Table_Teste");
 		
 		Banco.finalizar();
 		
